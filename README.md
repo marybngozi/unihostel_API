@@ -1,5 +1,5 @@
 # UNIVERSITY HOSTEL API
-- For Hostel booking
+For Hostel booking
 
 ## Designed By `MaryBlessing Umeh` [+2348136587946]
 
